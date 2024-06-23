@@ -74,7 +74,7 @@
     <string name="SendCommand">Запросите команду tap</string>
     <string name="ShowExactLastSeenTime">Отображать точное время последнего посещения пользователя</string>
     <string name="ShowExactLastSeenTimeDesc">Отображение точного времени последнего посещения пользователя работает, только тогда, когда пользователь разрешил просмотр.</string>
-    <string name="ShowMsgId">Показывать ID сообщения(-ий)</string>
+    <string name="ShowMsgId">Пsоказывать ID сообщения(-ий)</string>
     <string name="SourceCode">Исходный код</string>
     <string name="TMoeSettings">Настройки TMoe</string>
     <string name="TextCopied">Текст скопирован в буфер обмена.</string>
